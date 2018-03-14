@@ -1,0 +1,19 @@
+{
+  "name": "@vookvick/karma-sourceroot",
+  "version": "1.0.0",
+  "description": "Add sourceroot to sourcemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgnv/karma-sourceroot.git"
+  },
+  "author": "Sirinan Gannigathananon <windsbreeze@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgnv/karma-sourceroot/issues"
+  },
+  "homepage": "https://github.com/sgnv/karma-sourceroot#readme"
+}
