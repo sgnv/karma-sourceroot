@@ -1,4 +1,5 @@
-# karma-sourceroot
+@vookvick/karma-sourceroot
+=========
 Copy file directory to sourceroot of typescript files
 
 ## Problem
