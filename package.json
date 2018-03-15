@@ -1,6 +1,6 @@
 {
   "name": "@vookvick/karma-sourceroot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add sourceroot to sourcemap",
   "main": "index.js",
   "scripts": {
